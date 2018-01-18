@@ -4,7 +4,7 @@ An early prototype for a game about exploring a world submerged by the sea. You 
 
 ## Usage Instructions
 
-Unity is required to run the game at the moment.
+Unity is required to run the game at the moment - you will need to create a project.
 
 There isn't much to do or explore yet. More will come as development progresses.
 
