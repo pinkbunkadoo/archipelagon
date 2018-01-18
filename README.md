@@ -1,6 +1,6 @@
 ## What is Archipelagon?
 
-An early game prototype about exploring a world submerged by the sea. You control a glider as it skims the clouds and searches for signs of life below.
+An early prototype for a game about exploring a world submerged by the sea. You control a glider as it skims the clouds and searches for signs of life below.
 
 ## Usage Instructions
 
