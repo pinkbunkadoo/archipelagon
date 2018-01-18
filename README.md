@@ -1,7 +1,12 @@
-# archipelagon
-This is an early prototype so there isn't much to do or explore yet.
+## What is Archipelagon?
 
-<h3>Instructions</h3>
+An early game prototype about exploring a world submerged by the sea. You control a glider as it skims the clouds and searches for signs of life below.
+
+## Usage Instructions
+
+Unity is required to run the game at the moment.
+
+There isn't much to do or explore yet. More will come as development progresses.
 
 - Click with the mouse to change course.
 - Click and hold to speed up.
