@@ -2,9 +2,11 @@
 
 An early prototype for a game about exploring a world submerged by the sea. You control a glider as it skims the clouds and searches for signs of life below.
 
-## Usage Instructions
+## Installation
 
-Unity is required to run the game at the moment - you will need to create a project.
+Open the project in Unity to run the prototype.
+
+## Instructions
 
 There isn't much to do or explore yet. More will come as development progresses.
 
